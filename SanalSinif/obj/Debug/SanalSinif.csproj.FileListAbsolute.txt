@@ -1,0 +1,16 @@
+C:\Users\Demon\source\repos\SanalSinif\SanalSinif\bin\Debug\SanalSinif.exe.config
+C:\Users\Demon\source\repos\SanalSinif\SanalSinif\bin\Debug\SanalSinif.exe
+C:\Users\Demon\source\repos\SanalSinif\SanalSinif\bin\Debug\SanalSinif.pdb
+C:\Users\Demon\source\repos\SanalSinif\SanalSinif\obj\Debug\SanalSinif.csprojAssemblyReference.cache
+C:\Users\Demon\source\repos\SanalSinif\SanalSinif\obj\Debug\SanalSinif.Properties.Resources.resources
+C:\Users\Demon\source\repos\SanalSinif\SanalSinif\obj\Debug\SanalSinif.csproj.GenerateResource.cache
+C:\Users\Demon\source\repos\SanalSinif\SanalSinif\obj\Debug\SanalSinif.csproj.CoreCompileInputs.cache
+C:\Users\Demon\source\repos\SanalSinif\SanalSinif\obj\Debug\SanalSinif.exe
+C:\Users\Demon\source\repos\SanalSinif\SanalSinif\obj\Debug\SanalSinif.pdb
+C:\Users\Demon\source\repos\SanalSinif\SanalSinif\obj\Debug\SanalSinif.frmKullanici.resources
+C:\Users\Demon\source\repos\SanalSinif\SanalSinif\obj\Debug\SanalSinif.frmOgrenci.resources
+C:\Users\Demon\source\repos\SanalSinif\SanalSinif\obj\Debug\SanalSinif.frmOgretmen.resources
+C:\Users\Demon\source\repos\SanalSinif\SanalSinif\obj\Debug\SanalSinif.frmSinavSonucu.resources
+C:\Users\Demon\source\repos\SanalSinif\SanalSinif\obj\Debug\SanalSinif.frmStats.resources
+C:\Users\Demon\source\repos\SanalSinif\SanalSinif\obj\Debug\SanalSinif.frmTest.resources
+C:\Users\Demon\source\repos\SanalSinif\SanalSinif\obj\Debug\SanalSinif.frmKonular.resources
